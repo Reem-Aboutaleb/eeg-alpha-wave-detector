@@ -1,4 +1,5 @@
 # 🧠 EEG Alpha Wave Detector
+![Alpha Band EEG Plot](alpha_wave_plot.png)
 
 This project uses Python and the MNE library to load, filter, and visualize EEG brain signals — specifically targeting **alpha wave activity** (8–13 Hz). Alpha waves are linked to relaxation, meditation, and quiet wakefulness.
 
